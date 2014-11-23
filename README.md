@@ -5,6 +5,12 @@ The Glasgow Coma Score mobile app is intended to assist health professionals wis
 
 This repository contains the [ionic](http://ionicframework.com) source files for a hybrid mobile app.
 
+![Home screen](https://raw.githubusercontent.com/AaronAcerboni/glasgow-coma-scale-mobile/master/screenshots/main.jpg)
+
+![Assessment question](https://raw.githubusercontent.com/AaronAcerboni/glasgow-coma-scale-mobile/master/screenshots/question.jpg)
+
+![Outcome](https://raw.githubusercontent.com/AaronAcerboni/glasgow-coma-scale-mobile/master/screenshots/outcome.jpg)
+
 Requirements
 =========================
 
